@@ -1,0 +1,18 @@
+article{
+
+	color: white;
+	font-size: 90px;
+	text-align: center;
+	margin-top: 20%;
+	margin-bottom: 20%;
+	font-family: 'Amarante', sans-serif;
+}
+body{
+		background-image: url("bg.jpg");
+}
+footer{
+	margin-bottom: 0px;
+	font-family: 'Arima Madurai', sans-serif;
+	color: white;
+	font-size: 30px;
+}
